@@ -7,3 +7,7 @@ print(a)
 
 def tst(inte):
     print(inte)
+
+
+def test2():
+    print("In Test2")
